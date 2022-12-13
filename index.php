@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt maiores, lauda
 
 $bad_word = $_GET['badword'];
 
-$text_2 = str_replace( $bad_word, "***" , $text)
+$text_2 = str_replace( $bad_word, "***" , $text);
 
 ?>
 
